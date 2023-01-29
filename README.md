@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá pessoal 👋 sou Edison Matias!
+🎓 Técnico em Informática em [Instituto Federal do Paraná](https://curitiba.ifpr.edu.br/) <br>
+🎓 Bacharelado em Ciência da Computação em [Universidade Federal do Paraná](https://web.inf.ufpr.br/bcc/) <br>
+💻 Desenvolvedor Full-Stack em [UPlanner](https://uplanner.com.br/) <br>
+🇧🇷 Curitiba, Paraná, Brasil <br>
 
-<!--
-**ej0733/ej0733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interesses
+👾 Ciência de Dados <br>
+👾 Machine Learning <br>
+👾 Desenvolvimento Web <br>
+👾 Desenvolvimento Mobile <br>
+👾 Blockchain <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato
+<a href="https://www.linkedin.com/in/edison-matias">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="24px"/>
+</a>
