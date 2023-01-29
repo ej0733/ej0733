@@ -10,8 +10,3 @@
 👾 Desenvolvimento Web <br>
 👾 Desenvolvimento Mobile <br>
 👾 Blockchain <br>
-
-### Contato
-<a href="https://www.linkedin.com/in/edison-matias">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="24px"/>
-</a>
