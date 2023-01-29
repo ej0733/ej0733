@@ -9,4 +9,5 @@
 👾 Machine Learning <br>
 👾 Desenvolvimento Web <br>
 👾 Desenvolvimento Mobile <br>
+👾 Segurança da Informaç <br>
 👾 Blockchain <br>
